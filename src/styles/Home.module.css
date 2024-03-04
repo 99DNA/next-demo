@@ -1,0 +1,7 @@
+.connect {
+  display: flex;
+  justify-content: flex-end;
+}
+.pad {
+  padding-left: 10px;
+}
